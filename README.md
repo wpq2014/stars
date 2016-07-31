@@ -7,3 +7,4 @@
 ###2. RxJava相关
 * [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
+* [ZhihuDaily（MVP+RxJava+Retrofit+Dagger2）](https://github.com/baiiu/ZhihuDaily)
