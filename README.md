@@ -10,6 +10,6 @@
  
 ###3. 异步加载网络图片
 * [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
-* [Picasso](https://github.com/square/picasso)
+* [Picasso](https://github.com/square/picasso) --- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
 * [Glide](https://github.com/bumptech/glide) --- [Glide Transformations](https://github.com/wasabeef/glide-transformations)
-* [Fresco](https://github.com/facebook/fresco)
+* [Fresco](https://github.com/facebook/fresco) --- [Fresco Processors](https://github.com/wasabeef/fresco-processors)
