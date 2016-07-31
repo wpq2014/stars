@@ -13,4 +13,5 @@
 * [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 * [Picasso](https://github.com/square/picasso)
 * [Glide](https://github.com/bumptech/glide)
+* [Glide Transformations](https://github.com/wasabeef/glide-transformations)
 * [Fresco](https://github.com/facebook/fresco)
