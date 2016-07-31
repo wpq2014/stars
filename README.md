@@ -4,7 +4,7 @@
 * [AndroidAnnotations](https://github.com/excilys/androidannotations)   
 
 ###2　MVP & RxJava
-* [Android Architecture Blueprints（Google的一点关于MVP和RxJava的samples）]
+* [Android Architecture Blueprints（Google关于MVP和RxJava的samples）](https://github.com/googlesamples/android-architecture)
 * [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 * [ZhihuDaily（MVP+RxJava+Retrofit+Dagger2）](https://github.com/baiiu/ZhihuDaily)
