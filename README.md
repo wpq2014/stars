@@ -1,4 +1,4 @@
-# 一些常用的library
+# 一些值得收藏的library和其他资料
 ###1. 注解框架
 * [ButterKnife](https://github.com/JakeWharton/butterknife) --- [ButterKnifeZelezny（Android Studio插件）](https://github.com/avast/android-butterknife-zelezny)
 * [AndroidAnnotations](https://github.com/excilys/androidannotations)   
