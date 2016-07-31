@@ -10,7 +10,7 @@
 * [ZhihuDaily（MVP+RxJava+Retrofit+Dagger2）](https://github.com/baiiu/ZhihuDaily)
  
 ###3. 异步加载网络图片
-* [Universal ImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 * [Picasso](https://github.com/square/picasso)
 * [Glide](https://github.com/bumptech/glide)
 * [Fresco](https://github.com/facebook/fresco)
