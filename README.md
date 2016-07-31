@@ -16,3 +16,9 @@
 
 ###4. about mac
 * [Awesome Mac（非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师）](https://github.com/jaywcjlove/awesome-mac)
+
+###5. imitation
+* [SeatTable（电影票在线选座）](https://github.com/qifengdeqingchen/SeatTable)
+* [凡信（仿微信IM）](https://github.com/huangfangyi/FanXin3.0)
+* [WeChat（仿微信）](https://github.com/motianhuo/wechat)
+* [WeiboForSina（仿新浪微博）](https://github.com/debolee/WeiboForSina)
