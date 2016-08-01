@@ -36,6 +36,7 @@
 ###8　流式布局
 * [FlowLayout（张鸿洋）](https://github.com/hongyangAndroid/FlowLayout)
 * [AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+* [Android flow layout](https://github.com/ApmeM/android-flowlayout)
 
 ###9　换肤
 * [ChangeSkin（张鸿洋）](https://github.com/hongyangAndroid/ChangeSkin)
@@ -47,3 +48,11 @@
 ###11　扫码
 * [zxing](https://github.com/zxing/zxing)
 * [ZBar](https://github.com/ZBar/ZBar)
+
+###12　一些优秀的作品
+* [简阅](https://github.com/SkillCollege/SimplifyReader)
+* [eoe社区Android客户端](https://github.com/eoecn/android-app)
+* [Baelish（外卖app）](https://github.com/smay1227/Baelish)
+* [superCleanMaster（一键清理，包括内存加速，缓存清理，自启管理，软件管理）](https://github.com/joyoyao/superCleanMaster)
+* [QuickNews（新闻）](https://github.com/tigerguixh/QuickNews)
+* [SunDay（天气）](https://github.com/iQuick/SunDay)
