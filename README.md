@@ -75,9 +75,10 @@
 * [Umeng Limited](https://github.com/umeng)
 * [android-cn](https://github.com/android-cn)
 
-###相机、图库相关
+###相机、图库、图片处理
 * [GalleryFinal（Android相册自定义，包括拍照、图片选择（单选/多选）和裁剪）](https://github.com/pengjianbo/GalleryFinal)
 * [PhotoPicker（仿微信选择照片）](https://github.com/donglua/PhotoPicker)
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
 
 ###banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
