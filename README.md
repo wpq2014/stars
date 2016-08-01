@@ -57,3 +57,4 @@
 * [superCleanMaster（一键清理，包括内存加速，缓存清理，自启管理，软件管理）](https://github.com/joyoyao/superCleanMaster)
 * [QuickNews（新闻）](https://github.com/tigerguixh/QuickNews)
 * [SunDay（天气）](https://github.com/iQuick/SunDay)
+* [GitHub的android客户端](https://github.com/gdestiny/graduation_github)
