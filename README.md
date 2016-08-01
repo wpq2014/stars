@@ -23,6 +23,7 @@
 * [凡信（仿微信IM）](https://github.com/huangfangyi/FanXin3.0)
 * [WeChat（仿微信）](https://github.com/motianhuo/wechat)
 * [WeiboForSina（仿新浪微博）](https://github.com/debolee/WeiboForSina)
+* [PhotoPicker（仿微信选择照片）](https://github.com/donglua/PhotoPicker)
 
 ###6　socket.io
 * [Socket.IO-client Java（compatible with Socket.IO v1.0 and later）](https://github.com/socketio/socket.io-client-java)
