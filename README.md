@@ -44,3 +44,6 @@
 * [react-native-webrtc（A WebRTC module for React Native）](https://github.com/oney/react-native-webrtc)
 * [AppRTCDemo](https://github.com/njovy/AppRTCDemo)
 
+###11　扫码
+* [zxing](https://github.com/zxing/zxing)
+* [ZBar](https://github.com/ZBar/ZBar)
