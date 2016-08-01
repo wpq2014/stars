@@ -97,8 +97,9 @@
 ###打包
 * [MultiChannelPackageTool（安卓多渠道打包工具）](https://github.com/seven456/MultiChannelPackageTool)
 
-###app 状态监测
+###监测app状态、网络状态等变化
 * [Foredroid（app goes background / becomes foreground）](https://github.com/steveliles/Foredroid)
+* [NetworkEvents](https://github.com/pwittchen/NetworkEvents)
 
 ###事件分发、手势识别等
 * [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
