@@ -66,6 +66,7 @@
 * [SunDay（天气）](https://github.com/iQuick/SunDay)
 * [GitHub的android客户端](https://github.com/gdestiny/graduation_github)
 * [Horizon（类似siri语音波纹）](https://github.com/Yalantis/Horizon)
+* [gank.io第三方客户端](https://github.com/gaolonglong/GankGirl)
 
 ###react-native
 * [React Native（官方）](https://github.com/facebook/react-native)
