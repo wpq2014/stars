@@ -82,3 +82,6 @@
 
 ###19　时间、日期等选择器
 * [android-times-square](https://github.com/square/android-times-square)
+
+###20　utils
+* [NonViewUtils（不涉及视图的工具类，逻辑类的集合）](https://github.com/android-quick-dev/NonViewUtils)
