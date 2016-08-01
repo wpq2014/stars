@@ -101,6 +101,7 @@
 
 ###事件分发、手势识别等
 * [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
+* [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 
 ###文件存储
 * [Hawk（Secure, simple key-value storage for android）](https://github.com/orhanobut/hawk)
