@@ -96,3 +96,6 @@
 
 ###app 状态监测
 * [Foredroid（app goes background / becomes foreground）](https://github.com/steveliles/Foredroid)
+
+###事件分发、手势识别等
+* [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
