@@ -69,3 +69,6 @@
 ###15　相机、图库相关
 * [GalleryFinal（Android相册自定义，包括拍照、图片选择（单选/多选）和裁剪）](https://github.com/pengjianbo/GalleryFinal)
 * [PhotoPicker（仿微信选择照片）](https://github.com/donglua/PhotoPicker)
+
+###16　异步请求、下载等
+* [android-async-http](https://github.com/loopj/android-async-http)
