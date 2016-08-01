@@ -40,6 +40,7 @@
 
 ###9　换肤
 * [ChangeSkin（张鸿洋）](https://github.com/hongyangAndroid/ChangeSkin)
+* [Android_Skin_2.0](https://github.com/v7lin/Android_Skin_2.0)
  
 ###10　WebRTC
 * [react-native-webrtc（A WebRTC module for React Native）](https://github.com/oney/react-native-webrtc)
