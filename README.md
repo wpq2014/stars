@@ -58,6 +58,7 @@
 * [QuickNews（新闻）](https://github.com/tigerguixh/QuickNews)
 * [SunDay（天气）](https://github.com/iQuick/SunDay)
 * [GitHub的android客户端](https://github.com/gdestiny/graduation_github)
+* [Horizon（类似siri语音波纹）](https://github.com/Yalantis/Horizon)
 
 ###13　react-native
 * [React Native（官方）](https://github.com/facebook/react-native)
