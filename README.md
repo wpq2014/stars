@@ -111,9 +111,10 @@
 ###屏幕适配
 * [ScaleLayout（本质是百分比缩放）](https://github.com/gavinliu/Android-ScaleLayout)
 
-###Material Design
+###自定义View & Material Design
 * [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
 * [ToggleButton](https://github.com/zcweng/ToggleButton)
+* [MixtureTextView（图文混排、文字环绕）](https://github.com/hongyangAndroid/MixtureTextView)
 
 ###筛选menu
 * [DropDownMenu](https://github.com/baiiu/DropDownMenu)
