@@ -91,3 +91,6 @@
 
 ###21　打包
 * [MultiChannelPackageTool（安卓多渠道打包工具）](https://github.com/seven456/MultiChannelPackageTool)
+
+###22　app 状态监测
+* [Foredroid（app goes background / becomes foreground）](https://github.com/steveliles/Foredroid)
