@@ -80,6 +80,7 @@
 * [GalleryFinal（Android相册自定义，包括拍照、图片选择（单选/多选）和裁剪）](https://github.com/pengjianbo/GalleryFinal)
 * [PhotoPicker（仿微信选择照片）](https://github.com/donglua/PhotoPicker)
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
+* [BGAPhotoPicker-Android（图片选择、预览、九宫格图片控件、拖拽排序九宫格）](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
 
 ###banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
