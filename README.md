@@ -72,6 +72,7 @@
 
 ###16　异步请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
+* [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader)
 
 ###17　banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
