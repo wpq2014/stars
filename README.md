@@ -1,4 +1,5 @@
 # 一些值得收藏的library和其他资料
+###[Android 进阶笔记（包含常用的技术框架、博客社区、书籍等）](https://github.com/venshine/AndroidNote)
 ###注解框架
 * [ButterKnife](https://github.com/JakeWharton/butterknife) --- [ButterKnifeZelezny（Android Studio插件）](https://github.com/avast/android-butterknife-zelezny)
 * [AndroidAnnotations](https://github.com/excilys/androidannotations)   
