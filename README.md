@@ -72,3 +72,7 @@
 
 ###16　异步请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
+
+###17　banner
+* [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
+* [FlycoBanner](https://github.com/H07000223/FlycoBanner_Master)
