@@ -125,4 +125,4 @@
 * [DropDownMenu](https://github.com/baiiu/DropDownMenu)
 
 ###日志
-* [LogReport](https://github.com/wenmingvs/LogReport)
+* [LogReport（崩溃日志上传框架）](https://github.com/wenmingvs/LogReport)
