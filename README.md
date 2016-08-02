@@ -104,6 +104,7 @@
 ###监测app状态、网络状态等变化
 * [Foredroid（app goes background / becomes foreground）](https://github.com/steveliles/Foredroid)
 * [NetworkEvents](https://github.com/pwittchen/NetworkEvents)
+* [AndroidProcess（判断App位于前台或者后台的6种方法）](https://github.com/wenmingvs/AndroidProcess)
 
 ###事件分发、手势识别等
 * [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
