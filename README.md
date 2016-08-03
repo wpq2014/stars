@@ -57,6 +57,7 @@
 ###扫码
 * [zxing](https://github.com/zxing/zxing)
 * [ZBar](https://github.com/ZBar/ZBar)
+* [android-zxingLibrary（快速集成二维码扫描功能）](https://github.com/yipianfengye/android-zxingLibrary)
 
 ###一些优秀的作品
 * [简阅](https://github.com/SkillCollege/SimplifyReader)
