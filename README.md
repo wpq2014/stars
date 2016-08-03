@@ -78,6 +78,7 @@
 * [Facebook](https://github.com/facebook)
 * [Umeng Limited](https://github.com/umeng)
 * [android-cn](https://github.com/android-cn)
+* [Socket.IO](https://github.com/socketio)
 
 ###相机、图库、图片处理
 * [GalleryFinal（Android相册自定义，包括拍照、图片选择（单选/多选）和裁剪）](https://github.com/pengjianbo/GalleryFinal)
