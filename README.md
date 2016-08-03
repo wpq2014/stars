@@ -35,6 +35,7 @@
 ###socket.io
 * [Socket.IO-client Java（compatible with Socket.IO v1.0 and later）](https://github.com/socketio/socket.io-client-java)
 * [socket-io-android（Socket.io Android Example）](https://github.com/jonathanve/socket-io-android)
+* [socket.io-client](https://github.com/socketio/socket.io-client)
 
 ###下拉刷新
 * [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
