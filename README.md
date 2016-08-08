@@ -101,6 +101,7 @@
 
 ###utils
 * [NonViewUtils（不涉及视图的工具类，逻辑类的集合）](https://github.com/android-quick-dev/NonViewUtils)
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 ###打包
 * [MultiChannelPackageTool（安卓多渠道打包工具）](https://github.com/seven456/MultiChannelPackageTool)
