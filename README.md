@@ -12,6 +12,7 @@
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
 * [ZhihuDaily（MVP+RxJava+Retrofit+Dagger2）](https://github.com/baiiu/ZhihuDaily)
 * [MVPCommon（集成了众多开源项目的Android MVP快速开发框架）](https://github.com/CameloeAnthony/MVPCommon)
+* [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 ###异步请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
