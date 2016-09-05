@@ -126,6 +126,7 @@
 * [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
 * [ToggleButton](https://github.com/zcweng/ToggleButton)
 * [MixtureTextView（图文混排、文字环绕）](https://github.com/hongyangAndroid/MixtureTextView)
+* [Timeline-View](https://github.com/vipulasri/Timeline-View)
 
 ###筛选menu
 * [DropDownMenu](https://github.com/baiiu/DropDownMenu)
