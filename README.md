@@ -16,6 +16,9 @@
 
 ###异步请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
+* [okhttp](https://github.com/square/okhttp)
+* [volley](https://developer.android.com/training/volley/index.html)
+* [Retrofit](http://square.github.io/retrofit/)
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
 
 ###异步加载网络图片
