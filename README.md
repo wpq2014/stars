@@ -16,7 +16,7 @@
 
 ###异步请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
-* [okhttp](https://github.com/square/okhttp)
+* [okhttp](https://github.com/square/okhttp) --- [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 * [volley](https://developer.android.com/training/volley/index.html)
 * [Retrofit](https://github.com/square/retrofit)
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
