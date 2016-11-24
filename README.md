@@ -132,6 +132,7 @@
 * [ToggleButton](https://github.com/zcweng/ToggleButton)
 * [MixtureTextView（图文混排、文字环绕）](https://github.com/hongyangAndroid/MixtureTextView)
 * [Timeline-View](https://github.com/vipulasri/Timeline-View)
+* [shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
 
 ###筛选menu
 * [DropDownMenu](https://github.com/baiiu/DropDownMenu)
