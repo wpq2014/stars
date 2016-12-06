@@ -76,6 +76,7 @@
 * [GitHub的android客户端](https://github.com/gdestiny/graduation_github)
 * [Horizon（类似siri语音波纹）](https://github.com/Yalantis/Horizon)
 * [gank.io第三方客户端](https://github.com/gaolonglong/GankGirl)
+* [基于Gank.IO提供的API的第三方客户端（RxJava+Retrofit+MVP）](https://github.com/burgessjp/GanHuoIO)
 
 ###react-native
 * [React Native（官方）](https://github.com/facebook/react-native)
