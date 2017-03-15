@@ -1,4 +1,4 @@
-##一些值得收藏的library和其他资料
+## 一些值得收藏的library和其他资料
 ###[Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
 ###[Android 进阶笔记（包含常用的技术框架、博客社区、书籍等）](https://github.com/venshine/AndroidNote)     
 ###[Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
@@ -30,7 +30,7 @@
 ###mac
 * [Awesome Mac（非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师）](https://github.com/jaywcjlove/awesome-mac)
 
-###imitation
+### imitation
 * [SeatTable（电影票在线选座）](https://github.com/qifengdeqingchen/SeatTable)
 * [凡信（仿微信IM）](https://github.com/huangfangyi/FanXin3.0)
 * [WeChat（仿微信）](https://github.com/motianhuo/wechat)
