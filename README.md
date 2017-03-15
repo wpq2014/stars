@@ -107,6 +107,7 @@
 * [android-times-square](https://github.com/square/android-times-square)
 * [Android-Week-View](https://github.com/alamkanak/Android-Week-View)
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
+* [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar)
 
 ###utils
 * [NonViewUtils（不涉及视图的工具类，逻辑类的集合）](https://github.com/android-quick-dev/NonViewUtils)
