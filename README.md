@@ -109,6 +109,7 @@
 * [Android-Week-View](https://github.com/alamkanak/Android-Week-View)
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar)
+* [仿iOS的PickerView控件](https://github.com/Bigkoo/Android-PickerView)
 
 ### utils
 * [NonViewUtils（不涉及视图的工具类，逻辑类的集合）](https://github.com/android-quick-dev/NonViewUtils)
