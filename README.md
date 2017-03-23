@@ -159,3 +159,6 @@
 
 ### expandable
 * [ExpandableLayout](https://github.com/traex/ExpandableLayout)
+
+### 进程保活   
+* [AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService)
