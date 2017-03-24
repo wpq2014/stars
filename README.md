@@ -162,3 +162,5 @@
 
 ### 进程保活   
 * [AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService)
+### 布局
+* [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
