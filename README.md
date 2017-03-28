@@ -167,3 +167,5 @@
 
 ### 蓝牙
 * [Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library)
+* [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit)
+* [Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library)
