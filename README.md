@@ -164,3 +164,6 @@
 * [AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService)
 ### 布局
 * [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
+
+### 蓝牙
+* [Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library)
