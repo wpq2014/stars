@@ -169,3 +169,6 @@
 * [Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library)
 * [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit)
 * [Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library)
+
+### 教程&翻译&学习资料
+* [wizardforcel](https://github.com/wizardforcel)
