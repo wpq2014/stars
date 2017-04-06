@@ -20,6 +20,7 @@
 * [volley](https://developer.android.com/training/volley/index.html)
 * [Retrofit](https://github.com/square/retrofit)
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
+* [NoHttp](https://github.com/yanzhenjie/NoHttp)
 
 ### 异步加载网络图片
 * [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
@@ -172,3 +173,6 @@
 
 ### 教程&翻译&学习资料
 * [wizardforcel](https://github.com/wizardforcel)
+
+### RecyclerView
+* [SwipeRecyclerView](https://github.com/privatego/SwipeRecyclerView)
