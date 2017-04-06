@@ -176,3 +176,6 @@
 
 ### RecyclerView
 * [SwipeRecyclerView](https://github.com/privatego/SwipeRecyclerView)
+
+### StatusBar
+* [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
