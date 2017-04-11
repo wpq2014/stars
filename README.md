@@ -176,6 +176,7 @@
 
 ### RecyclerView
 * [SwipeRecyclerView](https://github.com/privatego/SwipeRecyclerView)
+* [Recycleview实现复杂页面](http://blog.csdn.net/iamdingruihaha/article/details/54772834)
 
 ### StatusBar
 * [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
