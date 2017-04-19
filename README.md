@@ -20,6 +20,7 @@
 * [volley](https://developer.android.com/training/volley/index.html)
 * [Retrofit](https://github.com/square/retrofit)
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
+* [MultiThreadDownload](https://github.com/Aspsine/MultiThreadDownload)
 * [NoHttp](https://github.com/yanzhenjie/NoHttp)
 
 ### 异步加载网络图片
