@@ -190,3 +190,6 @@
 
 ### 消息推送
 * [mqtt](https://github.com/eclipse/paho.mqtt.android)
+
+### 视频相关
+* [来疯直播](https://github.com/LaiFeng-Android/SopCastComponent)
