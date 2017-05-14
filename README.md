@@ -137,6 +137,7 @@
 
 ### 屏幕适配
 * [ScaleLayout（本质是百分比缩放）](https://github.com/gavinliu/Android-ScaleLayout)
+* [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
 ### 自定义View & Material Design
 * [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
@@ -155,7 +156,7 @@
 ### interview
 * [程序员简历模板](https://github.com/geekcompany/ResumeSample)
 
-### webview 和 js 交互
+### Hybrid
 * [JsBridge](https://github.com/lzyzsd/JsBridge)
 * [Android-JS-Call](https://github.com/Spring-Xu/Android-JS-Call)
 
@@ -167,8 +168,6 @@
 
 ### 进程保活   
 * [AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService)
-### 布局
-* [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
 ### 蓝牙
 * [Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library)
