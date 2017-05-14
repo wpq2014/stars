@@ -5,6 +5,7 @@
 ### 注解框架
 * [ButterKnife](https://github.com/JakeWharton/butterknife) --- [ButterKnifeZelezny（Android Studio插件）](https://github.com/avast/android-butterknife-zelezny)
 * [AndroidAnnotations](https://github.com/excilys/androidannotations)   
+* [dagger2](https://github.com/google/dagger)
 
 ### MVP & RxJava
 * [Android Architecture Blueprints（Google关于MVP和RxJava的samples）](https://github.com/googlesamples/android-architecture)
