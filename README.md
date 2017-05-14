@@ -136,6 +136,7 @@
 * [Hawk（Secure, simple key-value storage for android）](https://github.com/orhanobut/hawk)
 
 ### 屏幕适配
+* [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 * [ScaleLayout（本质是百分比缩放）](https://github.com/gavinliu/Android-ScaleLayout)
 * [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
 
