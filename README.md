@@ -132,7 +132,7 @@
 ### 事件分发、手势识别等
 * [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
 * [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
-* [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) --- 侧滑删除等
+* [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) --- 专业左右侧滑，可控制swipeEnable
 * [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) --- 中国Android第一人代码家，上下左右各种滑😄
 
 ### 文件存储
