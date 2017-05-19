@@ -106,7 +106,7 @@
 ### banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
 * [FlycoBanner](https://github.com/H07000223/FlycoBanner_Master)
-* [UltraViewPager](https://github.com/alibaba/UltraViewPager) --- by alibaba
+* [UltraViewPager](https://github.com/alibaba/UltraViewPager) --- by [alibaba](https://github.com/alibaba)
 
 ### tab
 * [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
