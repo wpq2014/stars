@@ -9,7 +9,7 @@
 * [dagger2](https://github.com/google/dagger)
 
 ### 架构
-* [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
+* [android-architecture-components (官方推荐的 App 架构)](https://github.com/googlesamples/android-architecture-components)
 * [Android Architecture Blueprints（Google关于MVP和RxJava的samples）](https://github.com/googlesamples/android-architecture)
 * [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)
