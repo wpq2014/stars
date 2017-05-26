@@ -183,6 +183,7 @@
 
 ### 教程&翻译&学习资料
 * [wizardforcel](https://github.com/wizardforcel)
+* [玩Android](http://xueandroid.com/)
 
 ### RecyclerView
 * [SwipeRecyclerView](https://github.com/privatego/SwipeRecyclerView)
