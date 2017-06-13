@@ -97,6 +97,7 @@
 * [Uber](https://github.com/uber)
 * [美团·大众点评](https://github.com/Meituan-Dianping)
 * [Bilibili](https://github.com/bilibili)
+* [MiCode](https://github.com/MiCode)
 
 ### 相机、图库、图片处理
 * [GalleryFinal（Android相册自定义，包括拍照、图片选择（单选/多选）和裁剪）](https://github.com/pengjianbo/GalleryFinal)
