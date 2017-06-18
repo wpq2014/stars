@@ -208,3 +208,6 @@
 * [fastjson](https://github.com/alibaba/fastjson)
 * [gson](https://github.com/google/gson)
 * [Android-JSONTool](https://github.com/xuehuayous/Android-JSONTool)
+
+### OCR
+* [textfairy](https://github.com/renard314/textfairy)
