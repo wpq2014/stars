@@ -211,3 +211,6 @@
 
 ### OCR
 * [textfairy](https://github.com/renard314/textfairy)
+
+### PPT
+* [nodeppt](https://github.com/ksky521/nodeppt)
