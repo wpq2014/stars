@@ -73,6 +73,7 @@
 * [android-zxingLibrary（快速集成二维码扫描功能）](https://github.com/yipianfengye/android-zxingLibrary)
 
 ### 一些优秀的作品
+* [NiceRead](https://github.com/Othershe/NiceRead)
 * [简阅](https://github.com/SkillCollege/SimplifyReader)
 * [eoe社区Android客户端](https://github.com/eoecn/android-app)
 * [Baelish（外卖app）](https://github.com/smay1227/Baelish)
