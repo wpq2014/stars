@@ -218,4 +218,4 @@
 
 ### 插件化
 * [VirtualAPK](https://github.com/didi/VirtualAPK)
-
+* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
