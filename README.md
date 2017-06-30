@@ -215,3 +215,7 @@
 
 ### PPT
 * [nodeppt](https://github.com/ksky521/nodeppt)
+
+### 插件化
+* [VirtualAPK](https://github.com/didi/VirtualAPK)
+
