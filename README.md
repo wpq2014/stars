@@ -219,3 +219,6 @@
 ### 插件化
 * [VirtualAPK](https://github.com/didi/VirtualAPK)
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
+
+### 新功能引导
+* [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
