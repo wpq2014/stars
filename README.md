@@ -224,5 +224,6 @@
 ### 新功能引导
 * [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
 
-### 内存
+### 性能
 * [leakcanary](https://github.com/square/leakcanary)
+* [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)
