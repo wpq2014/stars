@@ -106,6 +106,7 @@
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
 * [BGAPhotoPicker-Android（图片选择、预览、九宫格图片控件、拖拽排序九宫格）](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+* [Durban](https://github.com/yanzhenjie/Durban)
 
 ### banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
@@ -121,7 +122,6 @@
 * [material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 * [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar)
 * [仿iOS的PickerView控件](https://github.com/Bigkoo/Android-PickerView)
-* [Durban](https://github.com/yanzhenjie/Durban)
 
 ### utils
 * [NonViewUtils（不涉及视图的工具类，逻辑类的集合）](https://github.com/android-quick-dev/NonViewUtils)
