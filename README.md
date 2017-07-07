@@ -223,3 +223,6 @@
 
 ### 新功能引导
 * [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
+
+### 内存
+* [leakcanary](https://github.com/square/leakcanary)
