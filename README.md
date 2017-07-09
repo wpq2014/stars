@@ -223,6 +223,7 @@
 
 ### 新功能引导
 * [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
+* [Spotlight](https://github.com/TakuSemba/Spotlight)
 
 ### 性能
 * [leakcanary](https://github.com/square/leakcanary)
