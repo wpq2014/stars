@@ -56,7 +56,7 @@
 
 ### 流式布局
 * [FlowLayout（张鸿洋）](https://github.com/hongyangAndroid/FlowLayout)
-* [AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+* [AndroidTagGroup](https://github.com/kizitonwose/AndroidTagGroup)
 * [Android flow layout](https://github.com/ApmeM/android-flowlayout)
 
 ### 换肤
