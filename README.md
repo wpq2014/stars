@@ -20,13 +20,12 @@
 * [MVPArms](https://github.com/JessYanCoding/MVPArms)
 
 ### 网络请求、下载等
-* [android-async-http](https://github.com/loopj/android-async-http)
+* [Retrofit](https://github.com/square/retrofit)
 * [okhttp](https://github.com/square/okhttp) --- [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 * [volley](https://github.com/google/volley)
-* [Retrofit](https://github.com/square/retrofit)
+* [android-async-http](https://github.com/loopj/android-async-http)
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
 * [MultiThreadDownload](https://github.com/Aspsine/MultiThreadDownload)
-* [NoHttp](https://github.com/yanzhenjie/NoHttp)
 
 ### 下拉刷新
 * [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
