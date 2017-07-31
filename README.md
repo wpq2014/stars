@@ -34,10 +34,10 @@
 * [MVCHelper（android MVC架构,listview,RecyclerView,refresh,loadmore）](https://github.com/LuckyJayce/MVCHelper)
 
 ### 异步加载网络图片
-* [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
-* [Picasso](https://github.com/square/picasso) --- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
-* [Glide](https://github.com/bumptech/glide) --- [Glide Transformations](https://github.com/wasabeef/glide-transformations)
 * [Fresco](https://github.com/facebook/fresco) --- [Fresco Processors](https://github.com/wasabeef/fresco-processors)
+* [Glide](https://github.com/bumptech/glide) --- [Glide Transformations](https://github.com/wasabeef/glide-transformations)
+* [Picasso](https://github.com/square/picasso) --- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
+* [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 ### mac
 * [Awesome Mac（非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师）](https://github.com/jaywcjlove/awesome-mac)
