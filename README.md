@@ -19,7 +19,7 @@
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 * [MVPArms](https://github.com/JessYanCoding/MVPArms)
 
-### 网络请求、下载等
+### 网络框架、异步下载等
 * [Retrofit](https://github.com/square/retrofit)
 * [okhttp](https://github.com/square/okhttp) --- [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 * [volley](https://github.com/google/volley)
@@ -27,17 +27,17 @@
 * [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) 
 * [MultiThreadDownload](https://github.com/Aspsine/MultiThreadDownload)
 
+### 图片框架
+* [Fresco](https://github.com/facebook/fresco) --- [Fresco Processors](https://github.com/wasabeef/fresco-processors)
+* [Glide](https://github.com/bumptech/glide) --- [Glide Transformations](https://github.com/wasabeef/glide-transformations)
+* [Picasso](https://github.com/square/picasso) --- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
+* [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
 ### 下拉刷新
 * [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
 * [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 * [PullToRefresh-Demo（仿京东、美团、天猫等下拉刷新动画）](https://github.com/xuehuayous/PullToRefresh-Demo)
 * [MVCHelper（android MVC架构,listview,RecyclerView,refresh,loadmore）](https://github.com/LuckyJayce/MVCHelper)
-
-### 异步加载网络图片
-* [Fresco](https://github.com/facebook/fresco) --- [Fresco Processors](https://github.com/wasabeef/fresco-processors)
-* [Glide](https://github.com/bumptech/glide) --- [Glide Transformations](https://github.com/wasabeef/glide-transformations)
-* [Picasso](https://github.com/square/picasso) --- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations)
-* [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 ### mac
 * [Awesome Mac（非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师）](https://github.com/jaywcjlove/awesome-mac)
