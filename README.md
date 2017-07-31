@@ -4,10 +4,6 @@
 ### [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 ### [Android 开源项目和组件收集](https://github.com/XXApple/AndroidLibs)
 ### [收集Android开发相关的优秀资源](https://github.com/sososeen09/Android_Res_Collector)
-### 注解框架
-* [ButterKnife](https://github.com/JakeWharton/butterknife) --- [ButterKnifeZelezny（Android Studio插件）](https://github.com/avast/android-butterknife-zelezny)
-* [AndroidAnnotations](https://github.com/excilys/androidannotations)   
-* [dagger2](https://github.com/google/dagger)
 
 ### 架构
 * [android-architecture-components (官方推荐的 App 架构)](https://github.com/googlesamples/android-architecture-components)
@@ -18,6 +14,11 @@
 * [MVPCommon（集成了众多开源项目的Android MVP快速开发框架）](https://github.com/CameloeAnthony/MVPCommon)
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 * [MVPArms](https://github.com/JessYanCoding/MVPArms)
+
+### 注解框架
+* [dagger2](https://github.com/google/dagger)
+* [AndroidAnnotations](https://github.com/excilys/androidannotations) 
+* [ButterKnife](https://github.com/JakeWharton/butterknife) --- [ButterKnifeZelezny（Android Studio插件）](https://github.com/avast/android-butterknife-zelezny)
 
 ### 网络框架、异步下载等
 * [Retrofit](https://github.com/square/retrofit)
