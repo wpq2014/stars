@@ -19,7 +19,7 @@
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 * [MVPArms](https://github.com/JessYanCoding/MVPArms)
 
-### 异步请求、下载等
+### 网络请求、下载等
 * [android-async-http](https://github.com/loopj/android-async-http)
 * [okhttp](https://github.com/square/okhttp) --- [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 * [volley](https://github.com/google/volley)
