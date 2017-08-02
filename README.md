@@ -141,7 +141,7 @@
 * [custom-touch-examples](https://github.com/devunwired/custom-touch-examples)
 * [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
 * [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) --- 专业左右侧滑，可控制swipeEnable
-* [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) --- 中国Android第一人代码家，上下左右各种滑😄
+* [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) --- 代码家，上下左右各种滑😄
 
 ### 文件存储
 * [Hawk（Secure, simple key-value storage for android）](https://github.com/orhanobut/hawk)
