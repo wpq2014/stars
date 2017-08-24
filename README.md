@@ -237,3 +237,7 @@
 
 ### 画中画
 * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
+
+### 算法
+* [Algorithms](https://github.com/pedrovgs/Algorithms)
+
