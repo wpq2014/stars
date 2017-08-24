@@ -232,8 +232,9 @@
 * [leakcanary](https://github.com/square/leakcanary)
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)
 
-### 拖拽布局
+### 底部菜单&拖拽布局等
 * [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+* [BottomSheet](https://github.com/soarcn/BottomSheet)
 
 ### 画中画
 * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
