@@ -231,3 +231,9 @@
 ### 性能
 * [leakcanary](https://github.com/square/leakcanary)
 * [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)
+
+### 拖拽布局
+* [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+
+### 画中画
+* [DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
