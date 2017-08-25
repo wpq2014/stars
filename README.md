@@ -87,6 +87,7 @@
 * [gank.io第三方客户端](https://github.com/gaolonglong/GankGirl)
 * [基于Gank.IO提供的API的第三方客户端（RxJava+Retrofit+MVP）](https://github.com/burgessjp/GanHuoIO)
 * [MinimalistWeather](https://github.com/BaronZ88/MinimalistWeather)
+* [一个哥们的安卓Demo项目](https://github.com/tyzlmjj/AndroidUI)
 
 ### react-native
 * [React Native（官方）](https://github.com/facebook/react-native)
