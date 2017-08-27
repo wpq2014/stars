@@ -111,6 +111,7 @@
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 * [Durban](https://github.com/yanzhenjie/Durban)
 * [知乎Matisse](https://github.com/zhihu/Matisse)
+* [ImageSelector](https://github.com/donkingliang/ImageSelector)
 
 ### banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
