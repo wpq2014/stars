@@ -110,6 +110,7 @@
 * [BGAPhotoPicker-Android（图片选择、预览、九宫格图片控件、拖拽排序九宫格）](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
 * [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 * [Durban](https://github.com/yanzhenjie/Durban)
+* [知乎Matisse](https://github.com/zhihu/Matisse)
 
 ### banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
