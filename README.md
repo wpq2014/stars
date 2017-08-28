@@ -73,6 +73,7 @@
 * [zxing](https://github.com/zxing/zxing)
 * [ZBar](https://github.com/ZBar/ZBar)
 * [android-zxingLibrary（快速集成二维码扫描功能）](https://github.com/yipianfengye/android-zxingLibrary)
+* [QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)
 
 ### 一些优秀的作品
 * [NiceRead](https://github.com/Othershe/NiceRead)
