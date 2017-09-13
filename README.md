@@ -231,7 +231,7 @@
 * [HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView)
 * [Spotlight](https://github.com/TakuSemba/Spotlight)
 * [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)
-* [NewbieGuide](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650241281&idx=1&sn=e72b08562acc74a5c833b69e4bde92d8&chksm=8863886ebf14017842767ff65676daf3c9082982edd16c0fa0fcb5266ce2f3ccb27dc9cfef2a&scene=0#rd)
+* [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide)
 
 ### 性能
 * [leakcanary](https://github.com/square/leakcanary)
