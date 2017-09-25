@@ -164,7 +164,8 @@
 * [MaterialProgressWheel](https://github.com/pnikosis/materialish-progress)
 
 ### 筛选menu
-* [DropDownMenu](https://github.com/baiiu/DropDownMenu)
+* [baiiu/DropDownMenu](https://github.com/baiiu/DropDownMenu)
+* [JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu)
 
 ### 日志
 * [LogReport（崩溃日志上传框架）](https://github.com/wenmingvs/LogReport)
