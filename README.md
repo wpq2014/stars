@@ -113,6 +113,7 @@
 * [Durban](https://github.com/yanzhenjie/Durban)
 * [知乎Matisse](https://github.com/zhihu/Matisse)
 * [ImageSelector](https://github.com/donkingliang/ImageSelector)
+* [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
 ### banner
 * [AndroidImageSlider（代码家）](https://github.com/daimajia/AndroidImageSlider)
