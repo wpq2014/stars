@@ -193,6 +193,7 @@
 * [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit)
 * [Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library)
 * [BleDemo](http://www.jianshu.com/p/d70e22ce61bc)
+* [ClassicBluetooth](https://github.com/sdwfqin/ClassicBluetooth)
 
 ### 教程&翻译&学习资料
 * [wizardforcel](https://github.com/wizardforcel)
